@@ -1,5 +1,5 @@
-# Bootstrap-boilerplate
-Bootstrap practice area to hone coding skills
+# Coding Portfolio
+Portfolio to showcase and express my coding skillset
 
 ## To Get Started
 `git clone` repository
