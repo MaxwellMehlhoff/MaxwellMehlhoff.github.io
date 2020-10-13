@@ -40,6 +40,7 @@
     font-family: Special_Elite;
     color: darkred;
     background-color: white;
+    text-shadow: -1px 0 whitesmoke, 0 1px whitesmoke, 1px 0 whitesmoke, 0 -1px whitesmoke;
 }
 
 .landing_text {
